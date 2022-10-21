@@ -1,0 +1,359 @@
+SampleID,Plant,Treatment,Timepoint,Treatment_Timepoint,Mesocosm,Nucleic_Acid,Sample_or_Control
+RNABE0X1,Bean,Field-Soil,PreHormone1,01 - Field Soil,BE0,RNA,Sample
+RNABE0X2,Bean,Field-Soil,PreHormone1,01 - Field Soil,BE0,RNA,Sample
+RNABE0X3,Bean,Field-Soil,PreHormone1,01 - Field Soil,BE0,RNA,Sample
+RNABE0Y1,Bean,Predry,PreHormone1,02 - Predry,BE0,RNA,Sample
+RNABE0Y2,Bean,Predry,PreHormone1,02 - Predry,BE0,RNA,Sample
+RNABE0Y3,Bean,Predry,PreHormone1,02 - Predry,BE0,RNA,Sample
+RNABE0Z1,Bean,Postdry,PreHormone1,03 - Postdry,BE0,RNA,Sample
+RNABE0Z2,Bean,Postdry,PreHormone1,03 - Postdry,BE0,RNA,Sample
+RNABE0Z3,Bean,Postdry,PreHormone1,03 - Postdry,BE0,RNA,Sample
+RNABE0Z4,Bean,Postdry,PreHormone1,03 - Postdry,BE0,RNA,Sample
+RNABE0Z5,Bean,Postdry,PreHormone1,03 - Postdry,BE0,RNA,Sample
+RNABE0Z6,Bean,Postdry,PreHormone1,03 - Postdry,BE0,RNA,Sample
+RNABE1A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE1,RNA,Sample
+RNABE1A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE1,RNA,Sample
+RNABE1A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE1,RNA,Sample
+RNABE1B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE1,RNA,Sample
+RNABE1B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE1,RNA,Sample
+RNABE1B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE1,RNA,Sample
+RNABE1C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE1,RNA,Sample
+RNABE1C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE1,RNA,Sample
+RNABE1C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE1,RNA,Sample
+RNABE1D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE1,RNA,Sample
+RNABE1D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE1,RNA,Sample
+RNABE1D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE1,RNA,Sample
+RNABE1E1,Bean,Water-control,1D,08 - Water control (1D),BE1,RNA,Sample
+RNABE1E2,Bean,Water-control,1D,08 - Water control (1D),BE1,RNA,Sample
+RNABE1E3,Bean,Water-control,1D,08 - Water control (1D),BE1,RNA,Sample
+RNABE1F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE1,RNA,Sample
+RNABE1F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE1,RNA,Sample
+RNABE1F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE1,RNA,Sample
+RNABE1G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE1,RNA,Sample
+RNABE1G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE1,RNA,Sample
+RNABE1G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE1,RNA,Sample
+RNABE1H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE1,RNA,Sample
+RNABE1H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE1,RNA,Sample
+RNABE1H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE1,RNA,Sample
+RNABE1I1,Bean,Water-control,7D,12 - Water control (7D),BE1,RNA,Sample
+RNABE1I2,Bean,Water-control,7D,12 - Water control (7D),BE1,RNA,Sample
+RNABE1I3,Bean,Water-control,7D,12 - Water control (7D),BE1,RNA,Sample
+RNABE1J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE1,RNA,Sample
+RNABE1J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE1,RNA,Sample
+RNABE1J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE1,RNA,Sample
+RNABE1K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE1,RNA,Sample
+RNABE1K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE1,RNA,Sample
+RNABE1K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE1,RNA,Sample
+RNABE1L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE1,RNA,Sample
+RNABE1L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE1,RNA,Sample
+RNABE1L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE1,RNA,Sample
+RNABE1M1,Bean,Water-control,14D,16 - Water control (14D),BE1,RNA,Sample
+RNABE1M2,Bean,Water-control,14D,16 - Water control (14D),BE1,RNA,Sample
+RNABE1M3,Bean,Water-control,14D,16 - Water control (14D),BE1,RNA,Sample
+RNABE2A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE2,RNA,Sample
+RNABE2A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE2,RNA,Sample
+RNABE2A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE2,RNA,Sample
+RNABE2B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE2,RNA,Sample
+RNABE2B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE2,RNA,Sample
+RNABE2B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE2,RNA,Sample
+RNABE2C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE2,RNA,Sample
+RNABE2C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE2,RNA,Sample
+RNABE2C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE2,RNA,Sample
+RNABE2D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE2,RNA,Sample
+RNABE2D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE2,RNA,Sample
+RNABE2D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE2,RNA,Sample
+RNABE2E1,Bean,Water-control,1D,08 - Water control (1D),BE2,RNA,Sample
+RNABE2E2,Bean,Water-control,1D,08 - Water control (1D),BE2,RNA,Sample
+RNABE2E3,Bean,Water-control,1D,08 - Water control (1D),BE2,RNA,Sample
+RNABE2F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE2,RNA,Sample
+RNABE2F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE2,RNA,Sample
+RNABE2F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE2,RNA,Sample
+RNABE2G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE2,RNA,Sample
+RNABE2G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE2,RNA,Sample
+RNABE2G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE2,RNA,Sample
+RNABE2H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE2,RNA,Sample
+RNABE2H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE2,RNA,Sample
+RNABE2H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE2,RNA,Sample
+RNABE2I1,Bean,Water-control,7D,12 - Water control (7D),BE2,RNA,Sample
+RNABE2I2,Bean,Water-control,7D,12 - Water control (7D),BE2,RNA,Sample
+RNABE2I3,Bean,Water-control,7D,12 - Water control (7D),BE2,RNA,Sample
+RNABE2J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE2,RNA,Sample
+RNABE2J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE2,RNA,Sample
+RNABE2J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE2,RNA,Sample
+RNABE2K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE2,RNA,Sample
+RNABE2K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE2,RNA,Sample
+RNABE2K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE2,RNA,Sample
+RNABE2L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE2,RNA,Sample
+RNABE2L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE2,RNA,Sample
+RNABE2L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE2,RNA,Sample
+RNABE2M1,Bean,Water-control,14D,16 - Water control (14D),BE2,RNA,Sample
+RNABE2M2,Bean,Water-control,14D,16 - Water control (14D),BE2,RNA,Sample
+RNABE2M3,Bean,Water-control,14D,16 - Water control (14D),BE2,RNA,Sample
+RNABE3A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE3,RNA,Sample
+RNABE3A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE3,RNA,Sample
+RNABE3A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE3,RNA,Sample
+RNABE3B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE3,RNA,Sample
+RNABE3B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE3,RNA,Sample
+RNABE3B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE3,RNA,Sample
+RNABE3C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE3,RNA,Sample
+RNABE3C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE3,RNA,Sample
+RNABE3C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE3,RNA,Sample
+RNABE3D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE3,RNA,Sample
+RNABE3D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE3,RNA,Sample
+RNABE3D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE3,RNA,Sample
+RNABE3E1,Bean,Water-control,1D,08 - Water control (1D),BE3,RNA,Sample
+RNABE3E2,Bean,Water-control,1D,08 - Water control (1D),BE3,RNA,Sample
+RNABE3E3,Bean,Water-control,1D,08 - Water control (1D),BE3,RNA,Sample
+RNABE3F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE3,RNA,Sample
+RNABE3F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE3,RNA,Sample
+RNABE3F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE3,RNA,Sample
+RNABE3G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE3,RNA,Sample
+RNABE3G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE3,RNA,Sample
+RNABE3G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE3,RNA,Sample
+RNABE3H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE3,RNA,Sample
+RNABE3H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE3,RNA,Sample
+RNABE3H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE3,RNA,Sample
+RNABE3I1,Bean,Water-control,7D,12 - Water control (7D),BE3,RNA,Sample
+RNABE3I2,Bean,Water-control,7D,12 - Water control (7D),BE3,RNA,Sample
+RNABE3I3,Bean,Water-control,7D,12 - Water control (7D),BE3,RNA,Sample
+RNABE3J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE3,RNA,Sample
+RNABE3J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE3,RNA,Sample
+RNABE3J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE3,RNA,Sample
+RNABE3K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE3,RNA,Sample
+RNABE3K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE3,RNA,Sample
+RNABE3K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE3,RNA,Sample
+RNABE3L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE3,RNA,Sample
+RNABE3L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE3,RNA,Sample
+RNABE3L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE3,RNA,Sample
+RNABE3M1,Bean,Water-control,14D,16 - Water control (14D),BE3,RNA,Sample
+RNABE3M2,Bean,Water-control,14D,16 - Water control (14D),BE3,RNA,Sample
+RNABE3M3,Bean,Water-control,14D,16 - Water control (14D),BE3,RNA,Sample
+RNABE4A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE4,RNA,Sample
+RNABE4A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE4,RNA,Sample
+RNABE4A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE4,RNA,Sample
+RNABE4B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE4,RNA,Sample
+RNABE4B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE4,RNA,Sample
+RNABE4B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE4,RNA,Sample
+RNABE4C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE4,RNA,Sample
+RNABE4C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE4,RNA,Sample
+RNABE4C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE4,RNA,Sample
+RNABE4D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE4,RNA,Sample
+RNABE4D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE4,RNA,Sample
+RNABE4D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE4,RNA,Sample
+RNABE4E1,Bean,Water-control,1D,08 - Water control (1D),BE4,RNA,Sample
+RNABE4E2,Bean,Water-control,1D,08 - Water control (1D),BE4,RNA,Sample
+RNABE4E3,Bean,Water-control,1D,08 - Water control (1D),BE4,RNA,Sample
+RNABE4F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE4,RNA,Sample
+RNABE4F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE4,RNA,Sample
+RNABE4F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE4,RNA,Sample
+RNABE4G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE4,RNA,Sample
+RNABE4G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE4,RNA,Sample
+RNABE4G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE4,RNA,Sample
+RNABE4H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE4,RNA,Sample
+RNABE4H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE4,RNA,Sample
+RNABE4H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE4,RNA,Sample
+RNABE4I1,Bean,Water-control,7D,12 - Water control (7D),BE4,RNA,Sample
+RNABE4I2,Bean,Water-control,7D,12 - Water control (7D),BE4,RNA,Sample
+RNABE4I3,Bean,Water-control,7D,12 - Water control (7D),BE4,RNA,Sample
+RNABE4J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE4,RNA,Sample
+RNABE4J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE4,RNA,Sample
+RNABE4J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE4,RNA,Sample
+RNABE4K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE4,RNA,Sample
+RNABE4K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE4,RNA,Sample
+RNABE4K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE4,RNA,Sample
+RNABE4L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE4,RNA,Sample
+RNABE4L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE4,RNA,Sample
+RNABE4L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE4,RNA,Sample
+RNABE4M1,Bean,Water-control,14D,16 - Water control (14D),BE4,RNA,Sample
+RNABE4M2,Bean,Water-control,14D,16 - Water control (14D),BE4,RNA,Sample
+RNABE4M3,Bean,Water-control,14D,16 - Water control (14D),BE4,RNA,Sample
+RNACON12,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON13,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON14,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON15,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON16,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON17,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON18,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON19,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON20,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON21,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+RNACON22,Bean,Negative-control,Control,Negative-control,NEG,RNA,Control
+DNABE0X1,Bean,Field-Soil,PreHormone1,01 - Field Soil,BE0,DNA,Sample
+DNABE0X2,Bean,Field-Soil,PreHormone1,01 - Field Soil,BE0,DNA,Sample
+DNABE0X3,Bean,Field-Soil,PreHormone1,01 - Field Soil,BE0,DNA,Sample
+DNABE0Y1,Bean,Predry,PreHormone1,02 - Predry,BE0,DNA,Sample
+DNABE0Y2,Bean,Predry,PreHormone1,02 - Predry,BE0,DNA,Sample
+DNABE0Y3,Bean,Predry,PreHormone1,02 - Predry,BE0,DNA,Sample
+DNABE0Z1,Bean,Postdry,PreHormone1,03 - Postdry,BE0,DNA,Sample
+DNABE0Z2,Bean,Postdry,PreHormone1,03 - Postdry,BE0,DNA,Sample
+DNABE0Z3,Bean,Postdry,PreHormone1,03 - Postdry,BE0,DNA,Sample
+DNABE0Z4,Bean,Postdry,PreHormone1,03 - Postdry,BE0,DNA,Sample
+DNABE0Z5,Bean,Postdry,PreHormone1,03 - Postdry,BE0,DNA,Sample
+DNABE0Z6,Bean,Postdry,PreHormone1,03 - Postdry,BE0,DNA,Sample
+DNABE1A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE1,DNA,Sample
+DNABE1A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE1,DNA,Sample
+DNABE1A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE1,DNA,Sample
+DNABE1B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE1,DNA,Sample
+DNABE1B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE1,DNA,Sample
+DNABE1B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE1,DNA,Sample
+DNABE1C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE1,DNA,Sample
+DNABE1C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE1,DNA,Sample
+DNABE1C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE1,DNA,Sample
+DNABE1D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE1,DNA,Sample
+DNABE1D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE1,DNA,Sample
+DNABE1D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE1,DNA,Sample
+DNABE1E1,Bean,Water-control,1D,08 - Water control (1D),BE1,DNA,Sample
+DNABE1E2,Bean,Water-control,1D,08 - Water control (1D),BE1,DNA,Sample
+DNABE1E3,Bean,Water-control,1D,08 - Water control (1D),BE1,DNA,Sample
+DNABE1F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE1,DNA,Sample
+DNABE1F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE1,DNA,Sample
+DNABE1F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE1,DNA,Sample
+DNABE1G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE1,DNA,Sample
+DNABE1G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE1,DNA,Sample
+DNABE1G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE1,DNA,Sample
+DNABE1H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE1,DNA,Sample
+DNABE1H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE1,DNA,Sample
+DNABE1H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE1,DNA,Sample
+DNABE1I1,Bean,Water-control,7D,12 - Water control (7D),BE1,DNA,Sample
+DNABE1I2,Bean,Water-control,7D,12 - Water control (7D),BE1,DNA,Sample
+DNABE1I3,Bean,Water-control,7D,12 - Water control (7D),BE1,DNA,Sample
+DNABE1J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE1,DNA,Sample
+DNABE1J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE1,DNA,Sample
+DNABE1J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE1,DNA,Sample
+DNABE1K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE1,DNA,Sample
+DNABE1K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE1,DNA,Sample
+DNABE1K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE1,DNA,Sample
+DNABE1L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE1,DNA,Sample
+DNABE1L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE1,DNA,Sample
+DNABE1L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE1,DNA,Sample
+DNABE1M1,Bean,Water-control,14D,16 - Water control (14D),BE1,DNA,Sample
+DNABE1M2,Bean,Water-control,14D,16 - Water control (14D),BE1,DNA,Sample
+DNABE1M3,Bean,Water-control,14D,16 - Water control (14D),BE1,DNA,Sample
+DNABE2A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE2,DNA,Sample
+DNABE2A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE2,DNA,Sample
+DNABE2A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE2,DNA,Sample
+DNABE2B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE2,DNA,Sample
+DNABE2B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE2,DNA,Sample
+DNABE2B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE2,DNA,Sample
+DNABE2C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE2,DNA,Sample
+DNABE2C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE2,DNA,Sample
+DNABE2C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE2,DNA,Sample
+DNABE2D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE2,DNA,Sample
+DNABE2D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE2,DNA,Sample
+DNABE2D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE2,DNA,Sample
+DNABE2E1,Bean,Water-control,1D,08 - Water control (1D),BE2,DNA,Sample
+DNABE2E2,Bean,Water-control,1D,08 - Water control (1D),BE2,DNA,Sample
+DNABE2E3,Bean,Water-control,1D,08 - Water control (1D),BE2,DNA,Sample
+DNABE2F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE2,DNA,Sample
+DNABE2F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE2,DNA,Sample
+DNABE2F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE2,DNA,Sample
+DNABE2G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE2,DNA,Sample
+DNABE2G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE2,DNA,Sample
+DNABE2G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE2,DNA,Sample
+DNABE2H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE2,DNA,Sample
+DNABE2H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE2,DNA,Sample
+DNABE2H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE2,DNA,Sample
+DNABE2I1,Bean,Water-control,7D,12 - Water control (7D),BE2,DNA,Sample
+DNABE2I2,Bean,Water-control,7D,12 - Water control (7D),BE2,DNA,Sample
+DNABE2I3,Bean,Water-control,7D,12 - Water control (7D),BE2,DNA,Sample
+DNABE2J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE2,DNA,Sample
+DNABE2J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE2,DNA,Sample
+DNABE2J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE2,DNA,Sample
+DNABE2K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE2,DNA,Sample
+DNABE2K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE2,DNA,Sample
+DNABE2K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE2,DNA,Sample
+DNABE2L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE2,DNA,Sample
+DNABE2L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE2,DNA,Sample
+DNABE2L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE2,DNA,Sample
+DNABE2M1,Bean,Water-control,14D,16 - Water control (14D),BE2,DNA,Sample
+DNABE2M2,Bean,Water-control,14D,16 - Water control (14D),BE2,DNA,Sample
+DNABE2M3,Bean,Water-control,14D,16 - Water control (14D),BE2,DNA,Sample
+DNABE3A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE3,DNA,Sample
+DNABE3A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE3,DNA,Sample
+DNABE3A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE3,DNA,Sample
+DNABE3B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE3,DNA,Sample
+DNABE3B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE3,DNA,Sample
+DNABE3B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE3,DNA,Sample
+DNABE3C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE3,DNA,Sample
+DNABE3C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE3,DNA,Sample
+DNABE3C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE3,DNA,Sample
+DNABE3D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE3,DNA,Sample
+DNABE3D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE3,DNA,Sample
+DNABE3D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE3,DNA,Sample
+DNABE3E1,Bean,Water-control,1D,08 - Water control (1D),BE3,DNA,Sample
+DNABE3E2,Bean,Water-control,1D,08 - Water control (1D),BE3,DNA,Sample
+DNABE3E3,Bean,Water-control,1D,08 - Water control (1D),BE3,DNA,Sample
+DNABE3F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE3,DNA,Sample
+DNABE3F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE3,DNA,Sample
+DNABE3F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE3,DNA,Sample
+DNABE3G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE3,DNA,Sample
+DNABE3G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE3,DNA,Sample
+DNABE3G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE3,DNA,Sample
+DNABE3H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE3,DNA,Sample
+DNABE3H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE3,DNA,Sample
+DNABE3H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE3,DNA,Sample
+DNABE3I1,Bean,Water-control,7D,12 - Water control (7D),BE3,DNA,Sample
+DNABE3I2,Bean,Water-control,7D,12 - Water control (7D),BE3,DNA,Sample
+DNABE3I3,Bean,Water-control,7D,12 - Water control (7D),BE3,DNA,Sample
+DNABE3J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE3,DNA,Sample
+DNABE3J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE3,DNA,Sample
+DNABE3J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE3,DNA,Sample
+DNABE3K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE3,DNA,Sample
+DNABE3K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE3,DNA,Sample
+DNABE3K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE3,DNA,Sample
+DNABE3L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE3,DNA,Sample
+DNABE3L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE3,DNA,Sample
+DNABE3L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE3,DNA,Sample
+DNABE3M1,Bean,Water-control,14D,16 - Water control (14D),BE3,DNA,Sample
+DNABE3M2,Bean,Water-control,14D,16 - Water control (14D),BE3,DNA,Sample
+DNABE3M3,Bean,Water-control,14D,16 - Water control (14D),BE3,DNA,Sample
+DNABE4A1,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE4,DNA,Sample
+DNABE4A2,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE4,DNA,Sample
+DNABE4A3,Bean,Water-acclimated,PreHormone1,04 - Water acclimated,BE4,DNA,Sample
+DNABE4B1,Bean,Methanol-control,1D,05 - Methanol control (1D),BE4,DNA,Sample
+DNABE4B2,Bean,Methanol-control,1D,05 - Methanol control (1D),BE4,DNA,Sample
+DNABE4B3,Bean,Methanol-control,1D,05 - Methanol control (1D),BE4,DNA,Sample
+DNABE4C1,Bean,Abscisic-acid,1D,06 - ABA (1D),BE4,DNA,Sample
+DNABE4C2,Bean,Abscisic-acid,1D,06 - ABA (1D),BE4,DNA,Sample
+DNABE4C3,Bean,Abscisic-acid,1D,06 - ABA (1D),BE4,DNA,Sample
+DNABE4D1,Bean,Salicylic-acid,1D,07 - SA (1D),BE4,DNA,Sample
+DNABE4D2,Bean,Salicylic-acid,1D,07 - SA (1D),BE4,DNA,Sample
+DNABE4D3,Bean,Salicylic-acid,1D,07 - SA (1D),BE4,DNA,Sample
+DNABE4E1,Bean,Water-control,1D,08 - Water control (1D),BE4,DNA,Sample
+DNABE4E2,Bean,Water-control,1D,08 - Water control (1D),BE4,DNA,Sample
+DNABE4E3,Bean,Water-control,1D,08 - Water control (1D),BE4,DNA,Sample
+DNABE4F1,Bean,Methanol-control,7D,09 - Methanol control (7D),BE4,DNA,Sample
+DNABE4F2,Bean,Methanol-control,7D,09 - Methanol control (7D),BE4,DNA,Sample
+DNABE4F3,Bean,Methanol-control,7D,09 - Methanol control (7D),BE4,DNA,Sample
+DNABE4G1,Bean,Abscisic-acid,7D,10 - ABA (7D),BE4,DNA,Sample
+DNABE4G2,Bean,Abscisic-acid,7D,10 - ABA (7D),BE4,DNA,Sample
+DNABE4G3,Bean,Abscisic-acid,7D,10 - ABA (7D),BE4,DNA,Sample
+DNABE4H1,Bean,Salicylic-acid,7D,11 - SA (7D),BE4,DNA,Sample
+DNABE4H2,Bean,Salicylic-acid,7D,11 - SA (7D),BE4,DNA,Sample
+DNABE4H3,Bean,Salicylic-acid,7D,11 - SA (7D),BE4,DNA,Sample
+DNABE4I1,Bean,Water-control,7D,12 - Water control (7D),BE4,DNA,Sample
+DNABE4I2,Bean,Water-control,7D,12 - Water control (7D),BE4,DNA,Sample
+DNABE4I3,Bean,Water-control,7D,12 - Water control (7D),BE4,DNA,Sample
+DNABE4J1,Bean,Methanol-control,14D,13 - Methanol control (14D),BE4,DNA,Sample
+DNABE4J2,Bean,Methanol-control,14D,13 - Methanol control (14D),BE4,DNA,Sample
+DNABE4J3,Bean,Methanol-control,14D,13 - Methanol control (14D),BE4,DNA,Sample
+DNABE4K1,Bean,Abscisic-acid,14D,14 - ABA (14D),BE4,DNA,Sample
+DNABE4K2,Bean,Abscisic-acid,14D,14 - ABA (14D),BE4,DNA,Sample
+DNABE4K3,Bean,Abscisic-acid,14D,14 - ABA (14D),BE4,DNA,Sample
+DNABE4L1,Bean,Salicylic-acid,14D,15 - SA (14D),BE4,DNA,Sample
+DNABE4L2,Bean,Salicylic-acid,14D,15 - SA (14D),BE4,DNA,Sample
+DNABE4L3,Bean,Salicylic-acid,14D,15 - SA (14D),BE4,DNA,Sample
+DNABE4M1,Bean,Water-control,14D,16 - Water control (14D),BE4,DNA,Sample
+DNABE4M2,Bean,Water-control,14D,16 - Water control (14D),BE4,DNA,Sample
+DNABE4M3,Bean,Water-control,14D,16 - Water control (14D),BE4,DNA,Sample
+DNACON12,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON13,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON14,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON15,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON16,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON17,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON18,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON19,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON20,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON21,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
+DNACON22,Bean,Negative-control,Control,Negative-control,NEG,DNA,Control
