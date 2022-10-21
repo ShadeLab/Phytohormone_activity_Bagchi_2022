@@ -1,0 +1,140 @@
+SampleID,Plant,Treatment,Timepoint,Treatment_Timepoint,,Mesocosm,Cat,Timepoint2,A,B,Rep,PercActive,PercPhantom,Richness,Shannon,Evenness
+SW0X1RNA,Switchgrass,Field soil,Field soil,01 - Field Soil,,SW0,Pre-hormone treatment,Pre-hormone treatment,1,1,1,59.97012696,41.03808813,1016,6.307095108,0.910952254
+SW0X2RNA,Switchgrass,Field soil,Field soil,01 - Field Soil,,SW0,Pre-hormone treatment,Pre-hormone treatment,1,1,2,55.90469613,34.46132597,971,6.24844046,0.908424526
+SW0X3RNA,Switchgrass,Field soil,Field soil,01 - Field Soil,,SW0,Pre-hormone treatment,Pre-hormone treatment,1,1,3,59.8767809,42.58760108,1021,6.303293865,0.909758167
+SW0Y1RNA,Switchgrass,Predry,Predry,02 - Predry,,SW0,Pre-hormone treatment,Pre-hormone treatment,2,2,1,56.29217944,34.85510123,896,6.084593465,0.895064254
+SW0Y2RNA,Switchgrass,Predry,Predry,02 - Predry,,SW0,Pre-hormone treatment,Pre-hormone treatment,2,2,2,51.99025183,31.4378554,870,5.928582059,0.875908695
+SW0Y3RNA,Switchgrass,Predry,Predry,02 - Predry,,SW0,Pre-hormone treatment,Pre-hormone treatment,2,2,3,51.12751128,30.01230012,894,5.966269507,0.877947001
+SW0Z1RNA,Switchgrass,Postdry,Postdry,03 - Postdry,,SW0,Pre-hormone treatment,Pre-hormone treatment,3,3,1,100,100,200,5.298317367,1
+SW0Z2RNA,Switchgrass,Postdry,Postdry,03 - Postdry,,SW0,Pre-hormone treatment,Pre-hormone treatment,3,3,2,100,100,204,5.318119994,1
+SW0Z3RNA,Switchgrass,Postdry,Postdry,03 - Postdry,,SW0,Pre-hormone treatment,Pre-hormone treatment,3,3,3,100,100,192,5.257495372,1
+SW1A1RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW1,Pre-hormone treatment,Pre-hormone treatment,4,4,1,51.82072829,31.93277311,119,2.609523275,0.546025496
+SW1B2RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW1,Methanol control,Day 1,11,11,2,44.52554745,21.65450122,115,3.423003741,0.721402045
+SW1C1RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW1,Abscisic acid,Day 1,8,8,1,41.66666667,21.56862745,112,2.696327369,0.571437536
+SW1C2RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW1,Abscisic acid,Day 1,8,8,2,46.74418605,26.74418605,124,2.861830273,0.593706038
+SW1C3RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW1,Abscisic acid,Day 1,8,8,3,46.81933842,24.42748092,122,2.672225946,0.55624776
+SW1E2RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW1,Water control,Day 1,14,14,2,38.35978836,19.31216931,109,3.229335553,0.688359856
+SW1G1RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW1,Abscisic acid,Day 7,9,9,1,42.57142857,20.85714286,93,2.066642103,0.455950742
+SW1G2RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW1,Abscisic acid,Day 7,9,9,2,39.76608187,21.05263158,77,1.801330922,0.414689597
+SW1G3RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW1,Abscisic acid,Day 7,9,9,3,38.50574713,17.52873563,88,2.148584866,0.479880106
+SW1H1RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW1,Salicylic acid,Day 7,6,6,1,44.51038576,23.14540059,110,2.729799893,0.580749132
+SW1H2RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW1,Salicylic acid,Day 7,6,6,2,56.08974359,33.97435897,115,2.806763957,0.591528789
+SW1H3RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW1,Salicylic acid,Day 7,6,6,3,51.75438596,28.94736842,119,2.834281854,0.593054743
+SW1I1RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW1,Water control,Day 7,15,15,1,56.85279188,26.39593909,155,3.762306465,0.745982418
+SW1I2RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW1,Water control,Day 7,15,15,2,47.5177305,22.22222222,144,3.726039969,0.749734395
+SW1I3RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW1,Water control,Day 7,15,15,3,51.55131265,25.53699284,141,3.738529012,0.755447647
+SW1J1RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW1,Methanol control,Day 14,13,13,1,70.66666667,40,140,3.160198484,0.639503674
+SW1J2RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW1,Methanol control,Day 14,13,13,2,71.80451128,40.97744361,133,3.183250929,0.650925086
+SW1J3RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW1,Methanol control,Day 14,13,13,3,59.79381443,27.83505155,111,2.95375825,0.627187453
+SW1K1RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW1,Abscisic acid,Day 14,10,10,1,49.16201117,27.37430168,59,1.711579086,0.41975803
+SW1K2RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW1,Abscisic acid,Day 14,10,10,2,61.21212121,35.75757576,70,1.877610632,0.441947213
+SW1K3RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW1,Abscisic acid,Day 14,10,10,3,59.3220339,38.4180791,71,1.731494069,0.406198476
+SW1L1RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW1,Salicylic acid,Day 14,7,7,1,53.33333333,26.66666667,88,1.14666655,0.256104599
+SW1L2RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW1,Salicylic acid,Day 14,7,7,2,54.26356589,27.13178295,84,1.281361697,0.289193112
+SW1L3RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW1,Salicylic acid,Day 14,7,7,3,63.54679803,32.51231527,106,3.328182216,0.713675498
+SW1M1RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW1,Water control,Day 14,16,16,1,50.11933174,21.71837709,143,3.486532058,0.702526941
+SW1M2RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW1,Water control,Day 14,16,16,2,44.30992736,16.70702179,152,3.653428607,0.727212479
+SW1M3RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW1,Water control,Day 14,16,16,3,50.1216545,26.52068127,140,3.604879692,0.729490195
+SW2A3RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW2,Pre-hormone treatment,Pre-hormone treatment,4,4,3,39.13043478,20.92391304,92,2.57730306,0.569974252
+SW2B1RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW2,Methanol control,Day 1,11,11,1,45.22144522,24.24242424,116,3.302513846,0.694740967
+SW2B3RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW2,Methanol control,Day 1,11,11,3,42.43119266,19.49541284,117,3.207039251,0.673440176
+SW2C1RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW2,Abscisic acid,Day 1,8,8,1,42.89156627,22.1686747,109,2.748226843,0.585807515
+SW2C2RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW2,Abscisic acid,Day 1,8,8,2,35.49160671,16.06714628,96,2.63959571,0.578307263
+SW2C3RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW2,Abscisic acid,Day 1,8,8,3,42.51207729,21.73913043,115,3.168105142,0.667681867
+SW2D1RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW2,Salicylic acid,Day 1,5,5,1,41.10320285,24.19928826,143,2.658404906,0.535661522
+SW2D2RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW2,Salicylic acid,Day 1,5,5,2,41.96078431,23.92156863,127,3.141548535,0.648519241
+SW2D3RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW2,Salicylic acid,Day 1,5,5,3,41.88191882,23.61623616,148,3.182741114,0.636903325
+SW2E3RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW2,Water control,Day 1,14,14,3,44.50704225,21.4084507,96,2.946093587,0.645457678
+SW2F1RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW2,Methanol control,Day 7,12,12,1,55.85106383,30.85106383,147,3.406298076,0.682565693
+SW2F2RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW2,Methanol control,Day 7,12,12,2,44.11764706,17.64705882,124,2.705781941,0.561332757
+SW2F3RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW2,Methanol control,Day 7,12,12,3,44.75703325,19.18158568,114,2.542159544,0.536751061
+SW2G1RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW2,Abscisic acid,Day 7,9,9,1,47.42857143,23.14285714,98,2.570372877,0.560608748
+SW2G2RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW2,Abscisic acid,Day 7,9,9,2,40.49079755,19.01840491,95,2.38493092,0.523714403
+SW2G3RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW2,Abscisic acid,Day 7,9,9,3,39.87730061,17.48466258,82,2.369538028,0.537710232
+SW2H1RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW2,Salicylic acid,Day 7,6,6,1,46.09929078,27.42316785,144,3.327127543,0.66946731
+SW2H3RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW2,Salicylic acid,Day 7,6,6,3,46.73123487,25.66585956,126,3.228119234,0.667479542
+SW2I1RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW2,Water control,Day 7,15,15,1,52.40506329,23.5443038,143,3.718046144,0.749176414
+SW2I3RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW2,Water control,Day 7,15,15,3,60.49723757,32.0441989,149,3.756080554,0.750623673
+SW2J1RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW2,Methanol control,Day 14,13,13,1,45.99406528,20.77151335,118,1.567413758,0.328551116
+SW2J2RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW2,Methanol control,Day 14,13,13,2,41.69278997,18.80877743,93,1.220305183,0.269228549
+SW2J3RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW2,Methanol control,Day 14,13,13,3,53.42105263,27.63157895,137,1.470135634,0.298809214
+SW2K1RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW2,Abscisic acid,Day 14,10,10,1,48.14814815,28.61952862,84,2.083987682,0.470339393
+SW2K2RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW2,Abscisic acid,Day 14,10,10,2,39.82683983,15.58441558,60,1.9266082,0.470553509
+SW2K3RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW2,Abscisic acid,Day 14,10,10,3,43.40425532,25.10638298,74,1.846623718,0.429041773
+SW2L1RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW2,Salicylic acid,Day 14,7,7,1,63.94557823,34.01360544,133,3.428518838,0.701078542
+SW2L2RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW2,Salicylic acid,Day 14,7,7,2,63.21070234,30.10033445,132,3.63764461,0.74499123
+SW2L3RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW2,Salicylic acid,Day 14,7,7,3,65.26315789,35.43859649,134,3.620011176,0.73910363
+SW2M1RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW2,Water control,Day 14,16,16,1,53.67647059,26.47058824,151,3.533000923,0.704166608
+SW2M2RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW2,Water control,Day 14,16,16,2,48.53932584,19.5505618,149,3.588489137,0.717131823
+SW2M3RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW2,Water control,Day 14,16,16,3,47.39336493,19.66824645,142,3.604303486,0.72728597
+SW3A1RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW3,Pre-hormone treatment,Pre-hormone treatment,4,4,1,39.31623932,18.8034188,122,2.966657848,0.617536397
+SW3A2RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW3,Pre-hormone treatment,Pre-hormone treatment,4,4,2,43.28358209,21.89054726,110,2.959860245,0.629693141
+SW3A3RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW3,Pre-hormone treatment,Pre-hormone treatment,4,4,3,52.18508997,25.44987147,121,3.191426834,0.665464182
+SW3B1RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW3,Methanol control,Day 1,11,11,1,45.95185996,23.8512035,126,3.262202326,0.674526917
+SW3B3RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW3,Methanol control,Day 1,11,11,3,38.17427386,15.56016598,111,3.315194065,0.703933073
+SW3C1RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW3,Abscisic acid,Day 1,8,8,1,37.3650108,17.71058315,101,2.899492358,0.628259294
+SW3C2RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW3,Abscisic acid,Day 1,8,8,2,34.44676409,15.86638831,116,2.872978339,0.604380736
+SW3C3RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW3,Abscisic acid,Day 1,8,8,3,36.1003861,18.14671815,112,2.760888848,0.585120167
+SW3D1RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW3,Salicylic acid,Day 1,5,5,1,34.36853002,16.563147,107,2.446516776,0.523562249
+SW3D2RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW3,Salicylic acid,Day 1,5,5,2,45.31914894,21.70212766,129,2.486961153,0.511740155
+SW3D3RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW3,Salicylic acid,Day 1,5,5,3,42.26804124,23.50515464,124,2.515744555,0.521908217
+SW3E1RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW3,Water control,Day 1,14,14,1,39.9026764,19.22141119,96,3.042613609,0.666604186
+SW3E2RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW3,Water control,Day 1,14,14,2,38.96457766,20.16348774,99,3.014800486,0.656087455
+SW3E3RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW3,Water control,Day 1,14,14,3,35.62653563,14.004914,88,3.071177305,0.685938412
+SW3F1RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW3,Methanol control,Day 7,12,12,1,53.37690632,27.23311547,150,2.839861986,0.566766851
+SW3F2RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW3,Methanol control,Day 7,12,12,2,53.64238411,28.03532009,147,2.943800999,0.589888942
+SW3F3RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW3,Methanol control,Day 7,12,12,3,56,31.33333333,150,2.903000747,0.5793678
+SW3G1RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW3,Abscisic acid,Day 7,9,9,1,43.50797267,26.87927107,101,1.903580672,0.412466081
+SW3G2RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW3,Abscisic acid,Day 7,9,9,2,40.69478908,21.58808933,94,1.866428082,0.410809373
+SW3G3RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW3,Abscisic acid,Day 7,9,9,3,41.43222506,26.08695652,99,1.78070232,0.387520321
+SW3H2RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW3,Salicylic acid,Day 7,6,6,2,43.16939891,22.40437158,111,2.761609586,0.586387488
+SW3H3RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW3,Salicylic acid,Day 7,6,6,3,44.28571429,23.14285714,116,2.57425061,0.541538186
+SW3I1RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW3,Water control,Day 7,15,15,1,50.5,23.5,145,3.773283909,0.758184806
+SW3I2RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW3,Water control,Day 7,15,15,2,48.21002387,21.71837709,144,3.619439662,0.728284836
+SW3J2RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW3,Methanol control,Day 14,13,13,2,53.13283208,27.31829574,136,1.791986467,0.364769459
+SW3J3RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW3,Methanol control,Day 14,13,13,3,56.94822888,26.97547684,145,1.870064985,0.37576151
+SW3K1RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW3,Abscisic acid,Day 14,10,10,1,28.10457516,15.35947712,56,0.422773108,0.10502762
+SW3K2RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW3,Abscisic acid,Day 14,10,10,2,31.62939297,21.08626198,62,0.41807788,0.101299798
+SW3K3RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW3,Abscisic acid,Day 14,10,10,3,42.36760125,25.85669782,67,0.678585581,0.161387679
+SW3L1RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW3,Salicylic acid,Day 14,7,7,1,60.94890511,32.84671533,104,1.819294414,0.391718624
+SW3L2RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW3,Salicylic acid,Day 14,7,7,2,56.99300699,30.06993007,102,1.820363024,0.393594319
+SW3L3RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW3,Salicylic acid,Day 14,7,7,3,55.74912892,28.91986063,103,1.76436633,0.380683819
+SW3M1RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW3,Water control,Day 14,16,16,1,49.0990991,23.1981982,153,3.656375618,0.726850361
+SW3M2RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW3,Water control,Day 14,16,16,2,47.64957265,21.15384615,147,3.792393305,0.759932779
+SW3M3RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW3,Water control,Day 14,16,16,3,50.42372881,23.30508475,153,3.69294552,0.734120086
+SW4A1RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW4,Pre-hormone treatment,Pre-hormone treatment,4,4,1,46.08695652,24.13043478,130,3.06873769,0.630450122
+SW4A2RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW4,Pre-hormone treatment,Pre-hormone treatment,4,4,2,45.43568465,26.34854772,134,2.965305407,0.605431278
+SW4A3RNA,Switchgrass,Water acclimated,Water acclimated,04 - Water acclimated,,SW4,Pre-hormone treatment,Pre-hormone treatment,4,4,3,56.6893424,34.24036281,146,2.990140925,0.599995375
+SW4B1RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW4,Methanol control,Day 1,11,11,1,48.55967078,27.98353909,140,3.448635363,0.6978723
+SW4B2RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW4,Methanol control,Day 1,11,11,2,47.5161987,28.2937365,134,3.304410123,0.674666845
+SW4B3RNA,Switchgrass,Methanol control,Day 1,11 - Methanol control (1D),,SW4,Methanol control,Day 1,11,11,3,50.36144578,29.15662651,134,3.324889709,0.678848195
+SW4C1RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW4,Abscisic acid,Day 1,8,8,1,43.31896552,23.70689655,126,2.8853906,0.596613402
+SW4C2RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW4,Abscisic acid,Day 1,8,8,2,45.91611479,25.82781457,112,2.84401233,0.602736677
+SW4C3RNA,Switchgrass,Abscisic acid,Day 1,08 - ABA (1D),,SW4,Abscisic acid,Day 1,8,8,3,40.90909091,23.96694215,123,2.796728891,0.581176589
+SW4D1RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW4,Salicylic acid,Day 1,5,5,1,48.73188406,29.89130435,156,3.347562505,0.662902566
+SW4D3RNA,Switchgrass,Salicylic acid,Day 1,05 - SA (1D),,SW4,Salicylic acid,Day 1,5,5,3,49.74789916,32.94117647,176,3.408716213,0.659264436
+SW4E1RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW4,Water control,Day 1,14,14,1,44.52554745,20.92457421,119,3.298735992,0.690238701
+SW4E2RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW4,Water control,Day 1,14,14,2,40.8988764,20.2247191,126,3.101911751,0.641383569
+SW4E3RNA,Switchgrass,Water control,Day 1,14 - Water control (1D),,SW4,Water control,Day 1,14,14,3,43.41801386,22.63279446,110,3.101085443,0.659737985
+SW4F1RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW4,Methanol control,Day 7,12,12,1,53.15789474,23.15789474,126,2.690258482,0.556265853
+SW4F2RNA,Switchgrass,Methanol control,Day 7,12 - Methanol control (7D),,SW4,Methanol control,Day 7,12,12,2,56.167979,28.0839895,146,2.071280375,0.415618754
+SW4G1RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW4,Abscisic acid,Day 7,9,9,1,39.43661972,23.94366197,91,2.339361916,0.51860669
+SW4G2RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW4,Abscisic acid,Day 7,9,9,2,40.05235602,20.94240838,92,2.519487404,0.557188237
+SW4G3RNA,Switchgrass,Abscisic acid,Day 7,09 - ABA (7D),,SW4,Abscisic acid,Day 7,9,9,3,35.60209424,15.44502618,92,2.303459414,0.509413338
+SW4H1RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW4,Salicylic acid,Day 7,6,6,1,48.58490566,28.06603774,142,2.806514245,0.566305929
+SW4H2RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW4,Salicylic acid,Day 7,6,6,2,45.14851485,26.93069307,143,2.700929008,0.544230015
+SW4H3RNA,Switchgrass,Salicylic acid,Day 7,06 - SA (7D),,SW4,Salicylic acid,Day 7,6,6,3,43.00626305,24.8434238,140,2.739995544,0.554470621
+SW4I1RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW4,Water control,Day 7,15,15,1,62.33480176,34.36123348,190,3.988270331,0.760101398
+SW4I2RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW4,Water control,Day 7,15,15,2,58.20224719,26.74157303,183,4.017043667,0.771101707
+SW4I3RNA,Switchgrass,Water control,Day 7,15 - Water control (7D),,SW4,Water control,Day 7,15,15,3,57.78894472,24.62311558,170,3.969109065,0.772831939
+SW4J1RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW4,Methanol control,Day 14,13,13,1,63.38983051,34.91525424,132,3.833853011,0.785174797
+SW4J2RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW4,Methanol control,Day 14,13,13,2,57.75075988,28.57142857,135,3.858169691,0.786534876
+SW4J3RNA,Switchgrass,Methanol control,Day 14,13 - Methanol control (14D),,SW4,Methanol control,Day 14,13,13,3,62.85714286,31.42857143,125,2.769479817,0.57359152
+SW4K1RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW4,Abscisic acid,Day 14,10,10,1,34.70790378,17.5257732,65,1.00159193,0.239937472
+SW4K2RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW4,Abscisic acid,Day 14,10,10,2,43.25396825,25,65,0.898192787,0.215167575
+SW4K3RNA,Switchgrass,Abscisic acid,Day 14,10 - ABA (14D),,SW4,Abscisic acid,Day 14,10,10,3,47.31543624,29.86577181,68,0.631014792,0.149547017
+SW4L1RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW4,Salicylic acid,Day 14,7,7,1,61.2716763,32.65895954,144,1.602673024,0.322481536
+SW4L2RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW4,Salicylic acid,Day 14,7,7,2,72.69624573,40.27303754,142,3.776351132,0.762002202
+SW4L3RNA,Switchgrass,Salicylic acid,Day 14,07 - SA (14D),,SW4,Salicylic acid,Day 14,7,7,3,64.53674121,34.50479233,133,1.143948705,0.233919639
+SW4M1RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW4,Water control,Day 14,16,16,1,50.10752688,21.29032258,161,3.772995716,0.742510425
+SW4M3RNA,Switchgrass,Water control,Day 14,16 - Water control (14D),,SW4,Water control,Day 14,16,16,3,48.19532909,22.08067941,160,3.927564432,0.773877817

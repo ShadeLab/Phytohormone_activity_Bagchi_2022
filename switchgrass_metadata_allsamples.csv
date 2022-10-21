@@ -1,0 +1,353 @@
+Sample,Plant,Treatment,Timepoint,Treatment_Timepoint,Mesocosm,Nucleic_Acid,Sample_or_Control
+SW0X1RNA,Switchgrass,Field-Soil,PreHormone1,01 - Field Soil,SW0,RNA,Sample
+SW0X2RNA,Switchgrass,Field-Soil,PreHormone1,01 - Field Soil,SW0,RNA,Sample
+SW0X3RNA,Switchgrass,Field-Soil,PreHormone1,01 - Field Soil,SW0,RNA,Sample
+SW0Y1RNA,Switchgrass,Predry,PreHormone1,02 - Predry,SW0,RNA,Sample
+SW0Y2RNA,Switchgrass,Predry,PreHormone1,02 - Predry,SW0,RNA,Sample
+SW0Y3RNA,Switchgrass,Predry,PreHormone1,02 - Predry,SW0,RNA,Sample
+SW0Z1RNA,Switchgrass,Postdry,PreHormone1,03 - Postdry,SW0,RNA,Sample
+SW0Z2RNA,Switchgrass,Postdry,PreHormone1,03 - Postdry,SW0,RNA,Sample
+SW0Z3RNA,Switchgrass,Postdry,PreHormone1,03 - Postdry,SW0,RNA,Sample
+SW1A1RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW1,RNA,Sample
+SW1A2RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW1,RNA,Sample
+SW1A3RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW1,RNA,Sample
+SW1B1RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW1,RNA,Sample
+SW1B2RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW1,RNA,Sample
+SW1B3RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW1,RNA,Sample
+SW1C1RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW1,RNA,Sample
+SW1C2RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW1,RNA,Sample
+SW1C3RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW1,RNA,Sample
+SW1D1RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW1,RNA,Sample
+SW1D2RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW1,RNA,Sample
+SW1D3RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW1,RNA,Sample
+SW1E1RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW1,RNA,Sample
+SW1E2RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW1,RNA,Sample
+SW1E3RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW1,RNA,Sample
+SW1F1RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW1,RNA,Sample
+SW1F2RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW1,RNA,Sample
+SW1F3RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW1,RNA,Sample
+SW1G1RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW1,RNA,Sample
+SW1G2RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW1,RNA,Sample
+SW1G3RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW1,RNA,Sample
+SW1H1RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW1,RNA,Sample
+SW1H2RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW1,RNA,Sample
+SW1H3RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW1,RNA,Sample
+SW1I1RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW1,RNA,Sample
+SW1I2RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW1,RNA,Sample
+SW1I3RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW1,RNA,Sample
+SW1J1RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW1,RNA,Sample
+SW1J2RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW1,RNA,Sample
+SW1J3RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW1,RNA,Sample
+SW1K1RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW1,RNA,Sample
+SW1K2RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW1,RNA,Sample
+SW1K3RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW1,RNA,Sample
+SW1L1RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW1,RNA,Sample
+SW1L2RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW1,RNA,Sample
+SW1L3RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW1,RNA,Sample
+SW1M1RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW1,RNA,Sample
+SW1M2RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW1,RNA,Sample
+SW1M3RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW1,RNA,Sample
+SW2A1RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW2,RNA,Sample
+SW2A2RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW2,RNA,Sample
+SW2A3RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW2,RNA,Sample
+SW2B1RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW2,RNA,Sample
+SW2B2RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW2,RNA,Sample
+SW2B3RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW2,RNA,Sample
+SW2C1RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW2,RNA,Sample
+SW2C2RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW2,RNA,Sample
+SW2C3RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW2,RNA,Sample
+SW2D1RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW2,RNA,Sample
+SW2D2RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW2,RNA,Sample
+SW2D3RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW2,RNA,Sample
+SW2E1RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW2,RNA,Sample
+SW2E2RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW2,RNA,Sample
+SW2E3RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW2,RNA,Sample
+SW2F1RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW2,RNA,Sample
+SW2F2RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW2,RNA,Sample
+SW2F3RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW2,RNA,Sample
+SW2G1RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW2,RNA,Sample
+SW2G2RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW2,RNA,Sample
+SW2G3RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW2,RNA,Sample
+SW2H1RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW2,RNA,Sample
+SW2H2RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW2,RNA,Sample
+SW2H3RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW2,RNA,Sample
+SW2I1RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW2,RNA,Sample
+SW2I2RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW2,RNA,Sample
+SW2I3RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW2,RNA,Sample
+SW2J1RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW2,RNA,Sample
+SW2J2RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW2,RNA,Sample
+SW2J3RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW2,RNA,Sample
+SW2K1RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW2,RNA,Sample
+SW2K2RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW2,RNA,Sample
+SW2K3RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW2,RNA,Sample
+SW2L1RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW2,RNA,Sample
+SW2L2RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW2,RNA,Sample
+SW2L3RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW2,RNA,Sample
+SW2M1RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW2,RNA,Sample
+SW2M2RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW2,RNA,Sample
+SW2M3RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW2,RNA,Sample
+SW3A1RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW3,RNA,Sample
+SW3A2RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW3,RNA,Sample
+SW3A3RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW3,RNA,Sample
+SW3B1RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW3,RNA,Sample
+SW3B2RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW3,RNA,Sample
+SW3B3RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW3,RNA,Sample
+SW3C1RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW3,RNA,Sample
+SW3C2RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW3,RNA,Sample
+SW3C3RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW3,RNA,Sample
+SW3D1RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW3,RNA,Sample
+SW3D2RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW3,RNA,Sample
+SW3D3RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW3,RNA,Sample
+SW3E1RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW3,RNA,Sample
+SW3E2RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW3,RNA,Sample
+SW3E3RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW3,RNA,Sample
+SW3F1RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW3,RNA,Sample
+SW3F2RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW3,RNA,Sample
+SW3F3RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW3,RNA,Sample
+SW3G1RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW3,RNA,Sample
+SW3G2RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW3,RNA,Sample
+SW3G3RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW3,RNA,Sample
+SW3H1RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW3,RNA,Sample
+SW3H2RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW3,RNA,Sample
+SW3H3RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW3,RNA,Sample
+SW3I1RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW3,RNA,Sample
+SW3I2RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW3,RNA,Sample
+SW3I3RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW3,RNA,Sample
+SW3J1RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW3,RNA,Sample
+SW3J2RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW3,RNA,Sample
+SW3J3RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW3,RNA,Sample
+SW3K1RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW3,RNA,Sample
+SW3K2RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW3,RNA,Sample
+SW3K3RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW3,RNA,Sample
+SW3L1RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW3,RNA,Sample
+SW3L2RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW3,RNA,Sample
+SW3L3RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW3,RNA,Sample
+SW3M1RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW3,RNA,Sample
+SW3M2RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW3,RNA,Sample
+SW3M3RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW3,RNA,Sample
+SW4A1RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW4,RNA,Sample
+SW4A2RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW4,RNA,Sample
+SW4A3RNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW4,RNA,Sample
+SW4B1RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW4,RNA,Sample
+SW4B2RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW4,RNA,Sample
+SW4B3RNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW4,RNA,Sample
+SW4C1RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW4,RNA,Sample
+SW4C2RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW4,RNA,Sample
+SW4C3RNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW4,RNA,Sample
+SW4D1RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW4,RNA,Sample
+SW4D2RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW4,RNA,Sample
+SW4D3RNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW4,RNA,Sample
+SW4E1RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW4,RNA,Sample
+SW4E2RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW4,RNA,Sample
+SW4E3RNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW4,RNA,Sample
+SW4F1RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW4,RNA,Sample
+SW4F2RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW4,RNA,Sample
+SW4F3RNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW4,RNA,Sample
+SW4G1RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW4,RNA,Sample
+SW4G2RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW4,RNA,Sample
+SW4G3RNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW4,RNA,Sample
+SW4H1RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW4,RNA,Sample
+SW4H2RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW4,RNA,Sample
+SW4H3RNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW4,RNA,Sample
+SW4I1RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW4,RNA,Sample
+SW4I2RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW4,RNA,Sample
+SW4I3RNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW4,RNA,Sample
+SW4J1RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW4,RNA,Sample
+SW4J2RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW4,RNA,Sample
+SW4J3RNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW4,RNA,Sample
+SW4K1RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW4,RNA,Sample
+SW4K2RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW4,RNA,Sample
+SW4K3RNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW4,RNA,Sample
+SW4L1RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW4,RNA,Sample
+SW4L2RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW4,RNA,Sample
+SW4L3RNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW4,RNA,Sample
+SW4M1RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW4,RNA,Sample
+SW4M2RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW4,RNA,Sample
+SW4M3RNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW4,RNA,Sample
+CON01RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON02RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON03RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON04RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON05RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON06RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON07RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON08RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON09RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON10RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+CON11RNA,Switchgrass,Negative-control,Control,Negative-control,NEG,RNA,Control
+SW0X1DNA,Switchgrass,Field-Soil,PreHormone1,01 - Field Soil,SW0,DNA,Sample
+SW0X2DNA,Switchgrass,Field-Soil,PreHormone1,01 - Field Soil,SW0,DNA,Sample
+SW0X3DNA,Switchgrass,Field-Soil,PreHormone1,01 - Field Soil,SW0,DNA,Sample
+SW0Y1DNA,Switchgrass,Predry,PreHormone1,02 - Predry,SW0,DNA,Sample
+SW0Y2DNA,Switchgrass,Predry,PreHormone1,02 - Predry,SW0,DNA,Sample
+SW0Y3DNA,Switchgrass,Predry,PreHormone1,02 - Predry,SW0,DNA,Sample
+SW0Z1DNA,Switchgrass,Postdry,PreHormone1,03 - Postdry,SW0,DNA,Sample
+SW0Z2DNA,Switchgrass,Postdry,PreHormone1,03 - Postdry,SW0,DNA,Sample
+SW0Z3DNA,Switchgrass,Postdry,PreHormone1,03 - Postdry,SW0,DNA,Sample
+SW1A1DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW1,DNA,Sample
+SW1A2DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW1,DNA,Sample
+SW1A3DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW1,DNA,Sample
+SW1B1DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW1,DNA,Sample
+SW1B2DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW1,DNA,Sample
+SW1B3DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW1,DNA,Sample
+SW1C1DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW1,DNA,Sample
+SW1C2DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW1,DNA,Sample
+SW1C3DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW1,DNA,Sample
+SW1D1DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW1,DNA,Sample
+SW1D2DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW1,DNA,Sample
+SW1D3DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW1,DNA,Sample
+SW1E1DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW1,DNA,Sample
+SW1E2DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW1,DNA,Sample
+SW1E3DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW1,DNA,Sample
+SW1F1DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW1,DNA,Sample
+SW1F2DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW1,DNA,Sample
+SW1F3DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW1,DNA,Sample
+SW1G1DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW1,DNA,Sample
+SW1G2DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW1,DNA,Sample
+SW1G3DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW1,DNA,Sample
+SW1H1DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW1,DNA,Sample
+SW1H2DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW1,DNA,Sample
+SW1H3DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW1,DNA,Sample
+SW1I1DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW1,DNA,Sample
+SW1I2DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW1,DNA,Sample
+SW1I3DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW1,DNA,Sample
+SW1J1DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW1,DNA,Sample
+SW1J2DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW1,DNA,Sample
+SW1J3DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW1,DNA,Sample
+SW1K1DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW1,DNA,Sample
+SW1K2DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW1,DNA,Sample
+SW1K3DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW1,DNA,Sample
+SW1L1DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW1,DNA,Sample
+SW1L2DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW1,DNA,Sample
+SW1L3DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW1,DNA,Sample
+SW1M1DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW1,DNA,Sample
+SW1M2DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW1,DNA,Sample
+SW1M3DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW1,DNA,Sample
+SW2A1DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW2,DNA,Sample
+SW2A2DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW2,DNA,Sample
+SW2A3DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW2,DNA,Sample
+SW2B1DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW2,DNA,Sample
+SW2B2DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW2,DNA,Sample
+SW2B3DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW2,DNA,Sample
+SW2C1DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW2,DNA,Sample
+SW2C2DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW2,DNA,Sample
+SW2C3DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW2,DNA,Sample
+SW2D1DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW2,DNA,Sample
+SW2D2DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW2,DNA,Sample
+SW2D3DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW2,DNA,Sample
+SW2E1DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW2,DNA,Sample
+SW2E2DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW2,DNA,Sample
+SW2E3DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW2,DNA,Sample
+SW2F1DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW2,DNA,Sample
+SW2F2DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW2,DNA,Sample
+SW2F3DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW2,DNA,Sample
+SW2G1DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW2,DNA,Sample
+SW2G2DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW2,DNA,Sample
+SW2G3DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW2,DNA,Sample
+SW2H1DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW2,DNA,Sample
+SW2H2DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW2,DNA,Sample
+SW2H3DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW2,DNA,Sample
+SW2I1DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW2,DNA,Sample
+SW2I2DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW2,DNA,Sample
+SW2I3DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW2,DNA,Sample
+SW2J1DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW2,DNA,Sample
+SW2J2DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW2,DNA,Sample
+SW2J3DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW2,DNA,Sample
+SW2K1DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW2,DNA,Sample
+SW2K2DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW2,DNA,Sample
+SW2K3DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW2,DNA,Sample
+SW2L1DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW2,DNA,Sample
+SW2L2DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW2,DNA,Sample
+SW2L3DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW2,DNA,Sample
+SW2M1DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW2,DNA,Sample
+SW2M2DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW2,DNA,Sample
+SW2M3DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW2,DNA,Sample
+SW3A1DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW3,DNA,Sample
+SW3A2DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW3,DNA,Sample
+SW3A3DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW3,DNA,Sample
+SW3B1DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW3,DNA,Sample
+SW3B2DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW3,DNA,Sample
+SW3B3DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW3,DNA,Sample
+SW3C1DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW3,DNA,Sample
+SW3C2DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW3,DNA,Sample
+SW3C3DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW3,DNA,Sample
+SW3D1DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW3,DNA,Sample
+SW3D2DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW3,DNA,Sample
+SW3D3DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW3,DNA,Sample
+SW3E1DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW3,DNA,Sample
+SW3E2DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW3,DNA,Sample
+SW3E3DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW3,DNA,Sample
+SW3F1DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW3,DNA,Sample
+SW3F2DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW3,DNA,Sample
+SW3F3DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW3,DNA,Sample
+SW3G1DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW3,DNA,Sample
+SW3G2DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW3,DNA,Sample
+SW3G3DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW3,DNA,Sample
+SW3H1DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW3,DNA,Sample
+SW3H2DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW3,DNA,Sample
+SW3H3DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW3,DNA,Sample
+SW3I1DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW3,DNA,Sample
+SW3I2DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW3,DNA,Sample
+SW3I3DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW3,DNA,Sample
+SW3J1DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW3,DNA,Sample
+SW3J2DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW3,DNA,Sample
+SW3J3DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW3,DNA,Sample
+SW3K1DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW3,DNA,Sample
+SW3K2DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW3,DNA,Sample
+SW3K3DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW3,DNA,Sample
+SW3L1DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW3,DNA,Sample
+SW3L2DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW3,DNA,Sample
+SW3L3DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW3,DNA,Sample
+SW3M1DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW3,DNA,Sample
+SW3M2DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW3,DNA,Sample
+SW3M3DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW3,DNA,Sample
+SW4A1DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW4,DNA,Sample
+SW4A2DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW4,DNA,Sample
+SW4A3DNA,Switchgrass,Water-acclimated,PreHormone1,04 - Water acclimated,SW4,DNA,Sample
+SW4B1DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW4,DNA,Sample
+SW4B2DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW4,DNA,Sample
+SW4B3DNA,Switchgrass,Methanol-control,1D,05 - Methanol control (1D),SW4,DNA,Sample
+SW4C1DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW4,DNA,Sample
+SW4C2DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW4,DNA,Sample
+SW4C3DNA,Switchgrass,Abscisic-acid,1D,06 - ABA (1D),SW4,DNA,Sample
+SW4D1DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW4,DNA,Sample
+SW4D2DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW4,DNA,Sample
+SW4D3DNA,Switchgrass,Salicylic-acid,1D,07 - SA (1D),SW4,DNA,Sample
+SW4E1DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW4,DNA,Sample
+SW4E2DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW4,DNA,Sample
+SW4E3DNA,Switchgrass,Water-control,1D,08 - Water control (1D),SW4,DNA,Sample
+SW4F1DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW4,DNA,Sample
+SW4F2DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW4,DNA,Sample
+SW4F3DNA,Switchgrass,Methanol-control,7D,9 - Methanol control (7D),SW4,DNA,Sample
+SW4G1DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW4,DNA,Sample
+SW4G2DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW4,DNA,Sample
+SW4G3DNA,Switchgrass,Abscisic-acid,7D,10 - ABA (7D),SW4,DNA,Sample
+SW4H1DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW4,DNA,Sample
+SW4H2DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW4,DNA,Sample
+SW4H3DNA,Switchgrass,Salicylic-acid,7D,11 - SA (7D),SW4,DNA,Sample
+SW4I1DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW4,DNA,Sample
+SW4I2DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW4,DNA,Sample
+SW4I3DNA,Switchgrass,Water-control,7D,12 - Water control (7D),SW4,DNA,Sample
+SW4J1DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW4,DNA,Sample
+SW4J2DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW4,DNA,Sample
+SW4J3DNA,Switchgrass,Methanol-control,14D,13 - Methanol control (14D),SW4,DNA,Sample
+SW4K1DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW4,DNA,Sample
+SW4K2DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW4,DNA,Sample
+SW4K3DNA,Switchgrass,Abscisic-acid,14D,14 - ABA (14D),SW4,DNA,Sample
+SW4L1DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW4,DNA,Sample
+SW4L2DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW4,DNA,Sample
+SW4L3DNA,Switchgrass,Salicylic-acid,14D,15 - SA (14D),SW4,DNA,Sample
+SW4M1DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW4,DNA,Sample
+SW4M2DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW4,DNA,Sample
+SW4M3DNA,Switchgrass,Water-control,14D,16 - Water control (14D),SW4,DNA,Sample
+CON01DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON02DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON03DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON04DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON05DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON06DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON07DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON08DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON09DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON10DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
+CON11DNA,Switchgrass,Negative-control,Control,Negative-control,NEG,DNA,Control
